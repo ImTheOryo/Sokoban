@@ -1,0 +1,3 @@
+/home/oryo/CLionProjects/Sokoban/Game/cmake-build-debug/CMakeFiles/Game.dir
+/home/oryo/CLionProjects/Sokoban/Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oryo/CLionProjects/Sokoban/Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
